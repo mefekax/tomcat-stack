@@ -1,4 +1,7 @@
 <html>
+  <head>
+  <title>Batch 85 Devops</title>
+  </head>
 <body>
 <h2>Hello World! Welcome to Jenkins Tomcat Web App</h2>
   <h3> Stage Deployment Again </h3>
